@@ -1,3 +1,17 @@
+Repository ini dibuat ditujukan sebagai hasil pengerjaan test web programmer untuk  PT Jasamedika Saranatama.
+<br>
+Saya menjamin sepenuhnya bahwa program yang saya buat ini betul-betul buatan saya.
+<br>
+Spesifikasi yang saya gunakan : <br>
+1. PHP  7.4
+2. Database Mysql
+3. Framework php Laravel
+4. Template Premium Bootstrap Valex
+5. Laravel yang digunakan telah dikombinasikan dengan library Nwidart modular, sehingga pengkodean dalamnya beralur modular.
+6. Data wilayah yang digunakan menggunakan data wilayah dari KPU yang telah sinkron dengan kode wilayah Adwil Kementrian Dalama Negeri.
+
+<br>
+<br>
 Urutan Instalasi
 1. Clone repository
 2. Jalankan 'composer install'
