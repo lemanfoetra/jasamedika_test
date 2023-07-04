@@ -10,13 +10,13 @@ Spesifikasi yang saya gunakan : <br>
 6. Data wilayah yang digunakan menggunakan data wilayah dari KPU yang telah sinkron dengan kode wilayah Adwil Kementrian Dalam Negeri.
 
 <br>
-Urutan Instalas : 
-1. Clone repository
-2. Jalankan 'composer install
-3. Buat database lalu sesuaikan config '.env' atau 'config/database.php' dengan pengaturan database yang telah dibuat
-4. Jalankan 'php artisan migrate'
-5. Extrak  'full database.sql' 
-6. Extrak  'wilayahs.sql'
+Urutan Instalas : <br>
+1. Clone repository<br>
+2. Jalankan 'composer install<br>
+3. Buat database lalu sesuaikan config '.env' atau 'config/database.php' dengan pengaturan database yang telah dibuat<br>
+4. Jalankan 'php artisan migrate'<br>
+5. Extrak  'full database.sql' <br>
+6. Extrak  'wilayahs.sql'<br>
 7. Sekarang Anda bisa membuka project di browser dengan url "localhost/[namaproject]/public"
     <br>
     List akun yang telah ditambahkan : 
