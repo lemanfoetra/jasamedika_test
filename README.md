@@ -1,7 +1,6 @@
 Repository ini dibuat ditujukan sebagai hasil pengerjaan test web programmer untuk  PT Jasamedika Saranatama.
-<br>
 Saya menjamin sepenuhnya bahwa program yang saya buat ini betul-betul buatan saya.
-<br>
+
 Spesifikasi yang saya gunakan : <br>
 1. PHP  7.4
 2. Database Mysql
@@ -10,18 +9,16 @@ Spesifikasi yang saya gunakan : <br>
 5. Laravel yang digunakan telah dikombinasikan dengan library Nwidart modular, sehingga pengkodean dalamnya beralur modular.
 6. Data wilayah yang digunakan menggunakan data wilayah dari KPU yang telah sinkron dengan kode wilayah Adwil Kementrian Dalama Negeri.
 
-<br>
-<br>
 Urutan Instalasi
 1. Clone repository
 2. Jalankan 'composer install'
 3. Buat database lalu sesuaikan config '.env' atau 'config/database.php' dengan pengaturan database yang telah dibuat
 4. Jalankan 'php artisan migrate'
 5. Jalankan seeder secara berurutan
-    <br>a. 'php artisan db:seed --class=Role'
-    <br>b. 'php artisan db:seed --class=Menu'
-    <br>c. 'php artisan db:seed --class=RoleAccess'
-    <br>d. 'php artisan db:seed --class=User'
+    a. 'php artisan db:seed --class=Role'
+    b. 'php artisan db:seed --class=Menu'
+    c. 'php artisan db:seed --class=RoleAccess'
+    d. 'php artisan db:seed --class=User'
 
 6. Extrak sql wilayahs.sql
 
