@@ -7,7 +7,8 @@ Spesifikasi yang saya gunakan : <br>
 3. Framework php Laravel
 4. Template Premium Bootstrap Valex
 5. Laravel yang digunakan telah dikombinasikan dengan library Nwidart modular, sehingga pengkodean dalamnya beralur modular.
-6. Data wilayah yang digunakan menggunakan data wilayah dari KPU yang telah sinkron dengan kode wilayah Adwil Kementrian Dalama Negeri.
+6. Data wilayah yang digunakan menggunakan data wilayah dari KPU yang telah sinkron dengan kode wilayah Adwil Kementrian Dalam Negeri.
+
 
 Urutan Instalasi
 1. Clone repository
@@ -33,3 +34,6 @@ Urutan Instalasi
 
     <br><br>username/email  : operator@mail.com
     <br>password            : 12345678
+
+Jika ada kesulitan dalam instalasi bisa kontak saya melalui : 
+WA : 085156375378
