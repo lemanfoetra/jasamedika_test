@@ -22,11 +22,11 @@ Urutan Instalas : <br>
     <br>
     List akun yang telah ditambahkan : 
     
-    username/email  : superadmin@mail.com
+    username/email      : superadmin@mail.com
     password            : 12345678
-    username/email  : admin@mail.com
+    username/email      : admin@mail.com
     password            : 12345678
-    username/email  : operator@mail.com
+    username/email      : operator@mail.com
     password            : 12345678
 
 <br>
