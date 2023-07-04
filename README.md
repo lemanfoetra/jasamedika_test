@@ -19,13 +19,13 @@ Urutan Instalas : <br>
 6. Extrak  'wilayahs.sql'<br>
 7. Sekarang Anda bisa membuka project di browser dengan url "localhost/[namaproject]/public"
     <br>
+    <br>
     List akun yang telah ditambahkan : 
+    
     <br><br>username/email  : superadmin@mail.com
     <br>password            : 12345678
-    
     <br><br>username/email  : admin@mail.com
     <br>password            : 12345678
-    
     <br><br>username/email  : operator@mail.com
     <br>password            : 12345678
 
