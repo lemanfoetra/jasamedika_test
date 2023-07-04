@@ -10,7 +10,7 @@ Spesifikasi yang saya gunakan : <br>
 6. Data wilayah yang digunakan menggunakan data wilayah dari KPU yang telah sinkron dengan kode wilayah Adwil Kementrian Dalam Negeri.
 
 <br>
-Urutan Instalasi
+Urutan Instalasi : <br>
 1. Clone repository
 2. Jalankan 'composer install'
 3. Buat database lalu sesuaikan config '.env' atau 'config/database.php' dengan pengaturan database yang telah dibuat
