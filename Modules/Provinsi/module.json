@@ -1,0 +1,13 @@
+{
+    "name": "Provinsi",
+    "alias": "provinsi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Provinsi\\Providers\\ProvinsiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

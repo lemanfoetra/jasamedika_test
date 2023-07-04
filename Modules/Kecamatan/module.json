@@ -1,0 +1,13 @@
+{
+    "name": "Kecamatan",
+    "alias": "kecamatan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kecamatan\\Providers\\KecamatanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

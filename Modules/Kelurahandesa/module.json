@@ -1,0 +1,13 @@
+{
+    "name": "Kelurahandesa",
+    "alias": "kelurahandesa",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kelurahandesa\\Providers\\KelurahandesaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

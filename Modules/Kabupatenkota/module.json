@@ -1,0 +1,13 @@
+{
+    "name": "Kabupatenkota",
+    "alias": "kabupatenkota",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kabupatenkota\\Providers\\KabupatenkotaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

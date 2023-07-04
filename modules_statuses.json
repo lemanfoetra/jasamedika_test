@@ -1,0 +1,15 @@
+{
+    "Auth": true,
+    "LandingPage": true,
+    "Test": false,
+    "Dashboard": true,
+    "Role": true,
+    "Menu": true,
+    "User": true,
+    "AuthLogin": false,
+    "Provinsi": true,
+    "Kabupatenkota": true,
+    "Kecamatan": true,
+    "Kelurahandesa": true,
+    "Pasien": true
+}
