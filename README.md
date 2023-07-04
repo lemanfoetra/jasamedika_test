@@ -16,13 +16,14 @@ Urutan Instalasi
 3. Buat database lalu sesuaikan config '.env' atau 'config/database.php' dengan pengaturan database yang telah dibuat
 4. Jalankan 'php artisan migrate'
 5. Jalankan seeder secara berurutan
-   a. 'php artisan db:seed --class=Role'
-   b. 'php artisan db:seed --class=Menu'
-   c. 'php artisan db:seed --class=RoleAccess'
-   d. 'php artisan db:seed --class=User'
+   <br>a. 'php artisan db:seed --class=Role'
+   <br>b. 'php artisan db:seed --class=Menu'
+   <br>c. 'php artisan db:seed --class=RoleAccess'
+   <br>d. 'php artisan db:seed --class=User'
    
-7. Extrak sql wilayahs.sql
-8. Sekarang Anda bisa membuka project di browser dengan url "localhost/[namaproject]/public"
+7. Extrak  'full database.sql'
+8. Extrak  'wilayahs.sql'
+9. Sekarang Anda bisa membuka project di browser dengan url "localhost/[namaproject]/public"
     <br>
     List akun yang telah ditambahkan : 
     <br><br>username/email  : superadmin@mail.com
